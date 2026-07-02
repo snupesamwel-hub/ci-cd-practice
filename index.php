@@ -1,4 +1,5 @@
 <?php
 
-echo "<h1>Welcome to My First CI/CD Project</h1>";
-echo "<p>I am learning Git and GitHub.</p>";
+echo "<h1>CI/CD Deployment Successful!</h1>";
+echo "<p>This page was deployed automatically after pushing code to GitHub.</p>";
+echo "<p>Date: " . date("Y-m-d H:i:s") . "</p>";
